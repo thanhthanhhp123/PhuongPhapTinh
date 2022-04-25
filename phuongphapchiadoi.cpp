@@ -32,6 +32,6 @@ int main() {
         saiSo = abs(b - a);
         nghiem = x0;
     } while(saiSo > saiSoAnDinh);
-    cout << nghiem;
+    cout << "Một nghiệm của phương trình là: " << nghiem;
     return 0;
 }
